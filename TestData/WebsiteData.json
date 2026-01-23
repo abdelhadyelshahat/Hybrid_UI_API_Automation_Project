@@ -1,0 +1,9 @@
+{
+    "URLForLogin" : "https://auto.aimtech.online/",
+     "LoginData": {
+    "full_name": "aimtech",
+    "password": "AIM@auto123"
+     },
+
+    "URLForUiTest": "https://auto.aimtech.online/ui-testing/"
+}
